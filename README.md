@@ -9,3 +9,6 @@
 ## 2.min-char-rnn
 - cs231n课程上的实例代码，用于理解简单的rnn算法原理。
 - 简单的lstm算法。
+
+## 3.image captioning
+来自cs231n完成的作业，里面包含了cs231n中fast_layers层，需要ubuntu环境。
